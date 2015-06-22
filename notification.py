@@ -14,7 +14,7 @@ from pygame import mixer
 from Crypto.Cipher import AES
 
 DEBUG = False
-SECRET_KEY = '$D=R.9(=kxRU]P=*.u4SY=V(gd[A[r@:'
+SECRET_KEY = '$D=R.9(=kxRU]P=*.u4SY=V(gd[A[r@:' #your secret key
 
 
 def create_menu_item(menu, label, func):
